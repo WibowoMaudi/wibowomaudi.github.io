@@ -1,0 +1,40 @@
+body {
+	background-color: grey ;
+	outline-style: double;
+	outline-color: black ;
+}
+h1{
+
+	font-size: 46px ;
+	font-family: "lucida handwriting" ;
+	text-align: center;
+	align-items: center;
+	background-color: white ;
+	color:  grey ;
+	margin: 25px 5px 25px 5px ;
+	letter-spacing: 2px
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px ;
+	clear: both;
+	border-style: solid;
+	border-color: white;
+	margin-top: 25px;
+}
+table{
+	margin: 25px 50px 0px 10px;  
+}
+h2{
+	font-family: "verdana";
+	text-decoration: overline;
+	margin: 25px 50px 0px 10px ;
+}
+p{
+	font-family: "georgia" ;
+	text-align: justify;
+	letter-spacing: 1px ;
+	margin: 10px 50px 0px 10px; 
+}
